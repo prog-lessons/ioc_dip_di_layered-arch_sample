@@ -1,2 +1,2 @@
-# csharp
-Projetos para estudo/aprendizado.
+# C#
+Programas exemplos em C#.
