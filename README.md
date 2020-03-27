@@ -1,2 +1,2 @@
 # C#
-Programas exemplos em C#.
+Projects to study.
