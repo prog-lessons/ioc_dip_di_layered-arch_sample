@@ -1,2 +1,2 @@
 # C#
-Projects to study.
+Sample projects.
