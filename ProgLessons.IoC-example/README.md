@@ -12,7 +12,7 @@ towards the application layer (based on Onion Architecture).
 
 ![](https://github.com/prog-lessons/csharp/blob/master/ProgLessons.IoC-example/example%20ioc.png)
 
-To understand how all this works, you may start analyzing the entry points in presentation layer:
+To understand how all this works, you may start analyzing the entry points in the presentation layer:
 
 [Console](https://github.com/prog-lessons/csharp/blob/master/ProgLessons.IoC-example/Presentation/ProgLessons.IoC-example.Presentation.UI.Console/Program.cs)
 <br>
