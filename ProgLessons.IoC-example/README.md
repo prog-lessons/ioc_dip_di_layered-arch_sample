@@ -32,5 +32,5 @@ If you wish to swap the user interface on running the program, modify launch.jso
 ### Development Environment
 
 Linux Debian Buster<br>
-VSCode<br>
+VS Code<br>
 .NET Core 3.1
