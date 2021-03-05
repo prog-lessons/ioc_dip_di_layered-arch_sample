@@ -18,7 +18,7 @@ To understand how all this works, you may start analyzing the entry points in th
 <br>
 [Avalonia UI](https://github.com/prog-lessons/csharp/blob/master/ProgLessons.IoC-example/Presentation/ProgLessons.IoC-example.Presentation.UI.Avalonia/App.xaml.cs)
 
-If you wish to swap the user interface on running the program, modify launch.json ("configurations":{"program", "cwd"}) in .vscode folder.
+If you wish to switch the user interface on running the program, modify launch.json ("configurations":{"program", "cwd"}) in .vscode folder.
 
 ### Demo
 <b>Console</b>
