@@ -1,5 +1,5 @@
 
-This project uses advanced OOP concepts to achieve the two major goals in software design: Low coupling and high cohesion. In order to get it, 
+This PoC uses advanced OOP concepts to achieve the two major goals in software design: Low coupling and high cohesion. In order to get it, 
 the following key features/techniques are used:
 
 . Dependency Inversion Principle: Done through the use of interfaces.<br>
@@ -8,7 +8,7 @@ the following key features/techniques are used:
 . Outer layers are only allowed to depend on more inner layers. It means that it is only allowed to start from the presentation layer<br>
 towards the application layer (based on Onion Architecture).
 
-<b>The great point of this sample program is: ease of implementing new user interfaces without affect other parts of the software</b>.
+<b>The great point of this PoC is: ease of implementing new user interfaces without affect other parts of the software</b>.
 
 ![](https://github.com/prog-lessons/csharp/blob/master/ProgLessons.IoC-example/example%20ioc.png)
 
